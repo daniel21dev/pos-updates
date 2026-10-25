@@ -1,0 +1,9 @@
+{
+  "version": "0.2.0",
+  "platform": "win32",
+  "arch": "x64",
+  "downloadUrl": "https://github.com/daniel21dev/pos-updates/releases/latest/download/tortilleria-pos.zip",
+  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "notes": "Canal preparado. Aún no hay una versión más reciente publicada.",
+  "signature": "imFymL93+phgsgHUKXcFzf0e9KDEfShpQwVK7z2oWl9B+TSeNK1PdZY48GxvRLrBEDvhEb2JvmgMFQBTVGl0Dw=="
+}
