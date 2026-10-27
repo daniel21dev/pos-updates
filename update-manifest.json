@@ -1,9 +1,9 @@
 {
-  "version": "0.2.1",
+  "version": "0.2.4",
   "platform": "win32",
   "arch": "x64",
   "downloadUrl": "https://github.com/daniel21dev/pos-updates/releases/latest/download/tortilleria-pos.zip",
-  "sha256": "583f20b5ad53e60c7ac1248c9b7281c385f4c996da36c703baedc63c112ed4bc",
-  "notes": "Cancelación de ventas más visible desde Ventas recientes.",
-  "signature": "iFLPuPo4M5BwmZRj+8LEnERCIXfzkkfGNDp7rz36UAjGSIP8xQSlMdufUq0g3cBS5/LSDDQuz3cY2s2I7LmuDg=="
+  "sha256": "fce95c70aed7bde53bb402c5a83bb09443171add744ffd2b366f4e6aee975f24",
+  "notes": "Actualización de producción: mejoras de operación, cancelación de ventas y correcciones de estabilidad.",
+  "signature": "sZk1MZ55Yg9Ix3LcfP6u+zQQJal3kKtRHJL9V+/8zaucRl1z852FE5RD2XTSY7tKBRb3jTdFXJFDpaJCsZITBg=="
 }
