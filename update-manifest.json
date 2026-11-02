@@ -1,9 +1,9 @@
 {
-  "version": "0.2.4",
+  "version": "0.2.5",
   "platform": "win32",
   "arch": "x64",
   "downloadUrl": "https://github.com/daniel21dev/pos-updates/releases/latest/download/tortilleria-pos.zip",
-  "sha256": "fce95c70aed7bde53bb402c5a83bb09443171add744ffd2b366f4e6aee975f24",
-  "notes": "Actualización de producción: mejoras de operación, cancelación de ventas y correcciones de estabilidad.",
-  "signature": "sZk1MZ55Yg9Ix3LcfP6u+zQQJal3kKtRHJL9V+/8zaucRl1z852FE5RD2XTSY7tKBRb3jTdFXJFDpaJCsZITBg=="
+  "sha256": "d97b2227bb70c58ec403d48005da819cc46fb4445c8939f44bf3a866a261eab9",
+  "notes": "Lectura de báscula en vivo con reconexión automática, cálculo de importe por peso, tickets con mayor margen de impresión y corrección del primer inicio SaaS.",
+  "signature": "+J3eWjLDFkWnnObZL0hiVTaLpbMpQ7Z646A9awlcPxHw5MP5wY+2N/Mf+s+rLYJRpQ4QX63cPRNhc0LSQvPfBg=="
 }
