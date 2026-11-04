@@ -1,9 +1,9 @@
 {
-  "version": "0.2.7",
+  "version": "0.2.8",
   "platform": "win32",
   "arch": "x64",
   "downloadUrl": "https://github.com/daniel21dev/pos-updates/releases/latest/download/tortilleria-pos.zip",
-  "sha256": "5c63d77fbe66346e226c8deeaef731ebacb25aaddc11b5eb2ffdd34a494d0b47",
-  "notes": "Venta rápida automática, selección de puerto COM, permisos por sucursal y mejoras del diagnóstico de actualización.",
-  "signature": "6def6m7IEtxrL5ASnScmY5LxQMb+MIDNJ0LGnfuUxl/5bRSKa7Oh8kIhh+IBJak5OhrE+xSHgAfhmUIpdDLIBg=="
+  "sha256": "60cad3c78d6978e7692409183b2f69c9819d306e6ea5eeb17919940564b93983",
+  "notes": "Acceso con passkeys mediante Windows Hello, PIN o huella; contraseña como alternativa y compatibilidad del instalador.",
+  "signature": "YLs0FgovOGyRw90akoPVkQNScP8y3mBAkcCepYIPQCQ/tkAJlgl8UdcUSwRmtuif77yrgL0THcezKY6pQ1H6Ag=="
 }
