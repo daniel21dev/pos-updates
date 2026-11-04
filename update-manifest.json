@@ -1,9 +1,9 @@
 {
-  "version": "0.2.5",
+  "version": "0.2.6",
   "platform": "win32",
   "arch": "x64",
   "downloadUrl": "https://github.com/daniel21dev/pos-updates/releases/latest/download/tortilleria-pos.zip",
-  "sha256": "d97b2227bb70c58ec403d48005da819cc46fb4445c8939f44bf3a866a261eab9",
-  "notes": "Lectura de báscula en vivo con reconexión automática, cálculo de importe por peso, tickets con mayor margen de impresión y corrección del primer inicio SaaS.",
-  "signature": "+J3eWjLDFkWnnObZL0hiVTaLpbMpQ7Z646A9awlcPxHw5MP5wY+2N/Mf+s+rLYJRpQ4QX63cPRNhc0LSQvPfBg=="
+  "sha256": "18d2a058e16a36230a8d226c1a8e0aa414f98688edd27cd072757fd62e4d4482",
+  "notes": "Permite seleccionar y guardar el puerto COM de la bascula desde Configuracion.",
+  "signature": "CdJcd3Y7ClOvN6x0PEC8WCuWt/z+2p7thzlyBdM8oo6Q4gndxkCo1ZUOVQ1QHoliu/89bcEd1HfGR3xhsckUCA=="
 }
