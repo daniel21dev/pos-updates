@@ -1,9 +1,9 @@
 {
-  "version": "0.2.6",
+  "version": "0.2.7",
   "platform": "win32",
   "arch": "x64",
   "downloadUrl": "https://github.com/daniel21dev/pos-updates/releases/latest/download/tortilleria-pos.zip",
-  "sha256": "18d2a058e16a36230a8d226c1a8e0aa414f98688edd27cd072757fd62e4d4482",
-  "notes": "Permite seleccionar y guardar el puerto COM de la bascula desde Configuracion.",
-  "signature": "CdJcd3Y7ClOvN6x0PEC8WCuWt/z+2p7thzlyBdM8oo6Q4gndxkCo1ZUOVQ1QHoliu/89bcEd1HfGR3xhsckUCA=="
+  "sha256": "5c63d77fbe66346e226c8deeaef731ebacb25aaddc11b5eb2ffdd34a494d0b47",
+  "notes": "Venta rápida automática, selección de puerto COM, permisos por sucursal y mejoras del diagnóstico de actualización.",
+  "signature": "6def6m7IEtxrL5ASnScmY5LxQMb+MIDNJ0LGnfuUxl/5bRSKa7Oh8kIhh+IBJak5OhrE+xSHgAfhmUIpdDLIBg=="
 }
