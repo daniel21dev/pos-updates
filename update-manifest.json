@@ -1,9 +1,9 @@
 {
-  "version": "0.2.8",
+  "version": "0.2.9",
   "platform": "win32",
   "arch": "x64",
   "downloadUrl": "https://github.com/daniel21dev/pos-updates/releases/latest/download/tortilleria-pos.zip",
-  "sha256": "60cad3c78d6978e7692409183b2f69c9819d306e6ea5eeb17919940564b93983",
-  "notes": "Acceso con passkeys mediante Windows Hello, PIN o huella; contraseña como alternativa y compatibilidad del instalador.",
-  "signature": "YLs0FgovOGyRw90akoPVkQNScP8y3mBAkcCepYIPQCQ/tkAJlgl8UdcUSwRmtuif77yrgL0THcezKY6pQ1H6Ag=="
+  "sha256": "ed6f46bc361e3ddc36a2e778e0bc6c61427c6ed91335374ba01bbfbe22b178ef",
+  "notes": "Identidad personalizada por negocio: logos, color, cotizaciones y tickets; historial de marca conservado al sincronizar ventas sin conexión.",
+  "signature": "L8IfUK1LDlB61V+lSlcLHBT4MWYD9Hz0YutoMiF3s5nEvhmP7oTvxMEpEsPjF0HL5Y8RffxvdwTHmyik9P9wAA=="
 }
