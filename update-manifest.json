@@ -1,9 +1,9 @@
 {
-  "version": "0.2.9",
+  "version": "0.2.10",
   "platform": "win32",
   "arch": "x64",
   "downloadUrl": "https://github.com/daniel21dev/pos-updates/releases/latest/download/tortilleria-pos.zip",
-  "sha256": "ed6f46bc361e3ddc36a2e778e0bc6c61427c6ed91335374ba01bbfbe22b178ef",
-  "notes": "Identidad personalizada por negocio: logos, color, cotizaciones y tickets; historial de marca conservado al sincronizar ventas sin conexión.",
-  "signature": "L8IfUK1LDlB61V+lSlcLHBT4MWYD9Hz0YutoMiF3s5nEvhmP7oTvxMEpEsPjF0HL5Y8RffxvdwTHmyik9P9wAA=="
+  "sha256": "331a347a0e21761df1a0605e7ad29ba2c2c0d932167b499c1d18548f4cb38fa9",
+  "notes": "Búsqueda, filtros y paginación en los listados del POS y administración; edición del nombre de sucursal conservando sus datos.",
+  "signature": "S0kbEVaN5R+IFED1G+UW8Qzln5J4v4/+dsJZmbyQlH9NTo6Q6XAM9Q6mlIIkyOfuyh/6CWNf3Io2Pqme3uenAg=="
 }
