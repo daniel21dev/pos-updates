@@ -1,9 +1,9 @@
 {
-  "version": "0.2.10",
+  "version": "0.2.11",
   "platform": "win32",
   "arch": "x64",
-  "downloadUrl": "https://github.com/daniel21dev/pos-updates/releases/latest/download/tortilleria-pos.zip",
-  "sha256": "331a347a0e21761df1a0605e7ad29ba2c2c0d932167b499c1d18548f4cb38fa9",
-  "notes": "Búsqueda, filtros y paginación en los listados del POS y administración; edición del nombre de sucursal conservando sus datos.",
-  "signature": "S0kbEVaN5R+IFED1G+UW8Qzln5J4v4/+dsJZmbyQlH9NTo6Q6XAM9Q6mlIIkyOfuyh/6CWNf3Io2Pqme3uenAg=="
+  "downloadUrl": "https://github.com/daniel21dev/pos-updates/releases/download/v0.2.11/tortilleria-pos.zip",
+  "sha256": "a09b01bc7bd87409f674ed8524a0eea2900da8c74160810890fda3883bbdec42",
+  "notes": "Ventas en efectivo y cotizaciones sin internet para clientes registrados, recuperación al reiniciar y sincronización protegida contra duplicados. Actualización conserva el entorno y los datos de cada caja.",
+  "signature": "8j8DPaKTYWeg+cThC8cFFSCMwSvvmcxUt6k/aEVMV4C8kwNC/pPesZXesFzd7g7XSMc+QJFW7YCws8kp4/UJBw=="
 }
