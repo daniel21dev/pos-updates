@@ -1,9 +1,9 @@
 {
-  "version": "0.2.11",
+  "version": "0.2.12",
   "platform": "win32",
   "arch": "x64",
-  "downloadUrl": "https://github.com/daniel21dev/pos-updates/releases/download/v0.2.11/tortilleria-pos.zip",
-  "sha256": "a09b01bc7bd87409f674ed8524a0eea2900da8c74160810890fda3883bbdec42",
-  "notes": "Ventas en efectivo y cotizaciones sin internet para clientes registrados, recuperación al reiniciar y sincronización protegida contra duplicados. Actualización conserva el entorno y los datos de cada caja.",
-  "signature": "8j8DPaKTYWeg+cThC8cFFSCMwSvvmcxUt6k/aEVMV4C8kwNC/pPesZXesFzd7g7XSMc+QJFW7YCws8kp4/UJBw=="
+  "downloadUrl": "https://github.com/daniel21dev/pos-updates/releases/latest/download/paralel-pos.zip",
+  "sha256": "bc0ceb7848e4c82417915d39bf7bce272c26c9cbaa90fe8299a5a079cdbf178c",
+  "notes": "Actualizaciones con progreso visible y recuperación de descargas interrumpidas. Interfaz completa del POS, sin acceso al mostrador anterior. Tamaño del logo del ticket configurable y mejoras de carga de catálogos. Conserva los datos y la configuración al actualizar.",
+  "signature": "BRgSadT7W5BbH8s7EMeCWa0pCd06map0vP07Zp9+X1IB+//IORn1yeESxswvlnjIlaQ2VcEZo0fgyp5VDzgHCg=="
 }
