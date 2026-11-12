@@ -1,9 +1,9 @@
 {
-  "version": "0.2.13",
+  "version": "0.2.14",
   "platform": "win32",
   "arch": "x64",
   "downloadUrl": "https://github.com/daniel21dev/pos-updates/releases/latest/download/paralel-pos.zip",
-  "sha256": "134fd7d688feb5987b660e3f025e55e55a3677e713a05387a7695dd48ca449fa",
-  "notes": "Impresión opcional de tickets, productos con inventario ilimitado y administración más clara de sucursales y cajas. Mejoras de estabilidad y actualización segura.",
-  "signature": "Wav/VhxM8anJan3sExYT9GO1XRMKv3vAM+v2bniJIrkldDji86h/sNRGNabf8XC5KmpvB447wKj9M6fshC7oBA=="
+  "sha256": "42a8446fa2366c271b0f0bfd65ad03e4c295650001671fd467950f6c5f6061da",
+  "notes": "Preferencias de venta, reportes diarios configurables y aviso discreto de actualizaciones. Conserva los datos y la configuración de la caja.",
+  "signature": "UJ33kopkFj8RsB7FntFd+A8CG38krkMPaw20CZE3ya2o6mnQzNzeszEFyUWNpYiCVjq1xQmcSVQmIQoeSAhFCA=="
 }
