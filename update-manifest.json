@@ -1,9 +1,9 @@
 {
-  "version": "0.2.12",
+  "version": "0.2.13",
   "platform": "win32",
   "arch": "x64",
   "downloadUrl": "https://github.com/daniel21dev/pos-updates/releases/latest/download/paralel-pos.zip",
-  "sha256": "bc0ceb7848e4c82417915d39bf7bce272c26c9cbaa90fe8299a5a079cdbf178c",
-  "notes": "Actualizaciones con progreso visible y recuperación de descargas interrumpidas. Interfaz completa del POS, sin acceso al mostrador anterior. Tamaño del logo del ticket configurable y mejoras de carga de catálogos. Conserva los datos y la configuración al actualizar.",
-  "signature": "BRgSadT7W5BbH8s7EMeCWa0pCd06map0vP07Zp9+X1IB+//IORn1yeESxswvlnjIlaQ2VcEZo0fgyp5VDzgHCg=="
+  "sha256": "134fd7d688feb5987b660e3f025e55e55a3677e713a05387a7695dd48ca449fa",
+  "notes": "Impresión opcional de tickets, productos con inventario ilimitado y administración más clara de sucursales y cajas. Mejoras de estabilidad y actualización segura.",
+  "signature": "Wav/VhxM8anJan3sExYT9GO1XRMKv3vAM+v2bniJIrkldDji86h/sNRGNabf8XC5KmpvB447wKj9M6fshC7oBA=="
 }
