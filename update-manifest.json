@@ -1,9 +1,9 @@
 {
-  "version": "0.2.15",
+  "version": "0.2.16",
   "platform": "win32",
   "arch": "x64",
   "downloadUrl": "https://github.com/daniel21dev/pos-updates/releases/latest/download/paralel-pos.zip",
-  "sha256": "8493fd09dfcd5ad320a146a04b4caa21a45154ac96e48497fe6296e04dc67e47",
-  "notes": "Productos en ventana modal, carrito y cobro compactos con mayor espacio vertical, logo más grande y descuento autorizado configurable. Se conserva la compatibilidad con cajas ya instaladas.",
-  "signature": "HeCNhTFDQOYM5blXFtV5fBJwXPxgvpWb8tuqyyiUxB75tnxfxPZ3XqoHP408Oa7mJBqqttei8vP7nl3/tw/eDA=="
+  "sha256": "cab8bdcb18bcaf1ea4d177df99e16cb77086c8451edd253375ca43c2fc052a3f",
+  "notes": "Ventas pendientes con pausa y recuperación, configuración de botones por caja, nuevo directorio de clientes y crédito, corrección de saldos y cancelación auditada de cortes de caja.",
+  "signature": "BqcrArSyzOmStIYJzFBlp6ismlz6r15KKVnKKVSSOtuxCngg+TdLrmHOUzINFKaDHhIee5G1Uyg3QfppMwcBBg=="
 }
