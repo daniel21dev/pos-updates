@@ -1,9 +1,9 @@
 {
-  "version": "0.2.17",
+  "version": "0.2.18",
   "platform": "win32",
   "arch": "x64",
   "downloadUrl": "https://github.com/daniel21dev/pos-updates/releases/latest/download/paralel-pos.zip",
-  "sha256": "45555fac66f6d6e7553fafa10e802c28dd63db789abe15494962c7298bbc2661",
-  "notes": "Inicio de sesión integrado en la aplicación con recuperación de contraseña y ambiente visible. Conserva cuentas, sesiones y configuración existentes; mantiene acceso por navegador y passkeys.",
-  "signature": "amtFazkN7HyIxP6gmpc9MuckqST8ecKMSm7jNngr7Km14HGo+1B37HfyJfS8O1HVp78i1TfqUtd8Et1nsuVqAQ=="
+  "sha256": "05b518623de011799854c8fd98e4f1729cbda2b4a6a70027737d083b131b5530",
+  "notes": "Calibración de tickets por impresora: ancho útil, posición, márgenes y prueba de impresión. Corrige recortes de textos, logos y totales con conexión y sin conexión.",
+  "signature": "BTA8m+tcYEhe646AUF23tID3ZKPwpn1y4KJNDGAxMvWh+oGWyXmNIKm/hYi7+oz7plNRH0wq8jv8TkLqjeL+CA=="
 }
