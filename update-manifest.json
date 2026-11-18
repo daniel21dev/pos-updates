@@ -1,9 +1,9 @@
 {
-  "version": "0.2.19",
+  "version": "0.2.20",
   "platform": "win32",
   "arch": "x64",
   "downloadUrl": "https://github.com/daniel21dev/pos-updates/releases/latest/download/paralel-pos.zip",
-  "sha256": "b4e46059f51ef627d81366ff0852d89683ba73827e3c4af5eb6269d9dd981491",
-  "notes": "Nueva vista táctil con productos y clientes accesibles, preferencias para conservar la vista y el último producto vendido, redondeo configurable de báscula en kg y mejoras de acceso, cobro e inventario.",
-  "signature": "1kBMhF3WP1DOCW1eyq3FW+yzjkYYS+jcZ5uPXGmQE4lZLSdiRVVlXT27cU71zRCa7wbJ5NRQF85/g7+7IOwQDQ=="
+  "sha256": "2d10fd1f7926df2cec3c8a2f92b92af7aea47da644f53f8b6f4493afb4f081e5",
+  "notes": "Consulta de productos desde el historial, redondeo configurable de importes por peso, búsqueda por código exacto y tickets sin leyenda de sincronización.",
+  "signature": "PWPy+dMeV/hKtf2y9U+LuqoReOKwpNd1HbgMxi/FCADAbmw0nxZ7y3LFcLkA1GBMY5RwSzntgGcGDFKVMs+aBg=="
 }
