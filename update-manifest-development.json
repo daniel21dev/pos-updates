@@ -1,9 +1,9 @@
 {
-  "version": "0.2.11",
+  "version": "0.2.19",
   "platform": "win32",
   "arch": "x64",
-  "downloadUrl": "https://github.com/daniel21dev/pos-updates/releases/download/v0.2.11/tortilleria-pos-development.zip",
-  "sha256": "b66159894f9b4867b398fbfb795b3cbb8eb3661e96e2609dc6f02367b9ceb247",
-  "notes": "Desarrollo: ventas en efectivo y cotizaciones sin internet para clientes registrados, recuperación al reiniciar y sincronización protegida contra duplicados. Conserva configuración y datos del entorno de desarrollo.",
-  "signature": "xUkgMooQLisFj+zp9M7WkjKgSF6tbSl1jbpUn8Bn08ZvVn3tozmYjEtVKJMSv9xtZf8I2aKNb+xERE76ibcPBQ=="
+  "downloadUrl": "https://github.com/daniel21dev/pos-updates/releases/download/v0.2.19/tortilleria-pos-development.zip",
+  "sha256": "56797b2da09cfbece8b51d62662f5ccba13eb26a683cd9d0af405243bd35c3dc",
+  "notes": "Nueva vista táctil con productos y clientes accesibles, preferencias para conservar la vista y el último producto vendido, redondeo configurable de báscula en kg y mejoras de acceso, cobro e inventario.",
+  "signature": "+/OXjjgYkRqhYitPcU9+np0VfHnp23bBwKXRdbY+aAMBqBhJudnJ4nSXJi/vugxZGU8XvJtn3t0zOvAKSr37Bw=="
 }
