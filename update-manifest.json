@@ -1,9 +1,9 @@
 {
-  "version": "0.2.18",
+  "version": "0.2.19",
   "platform": "win32",
   "arch": "x64",
   "downloadUrl": "https://github.com/daniel21dev/pos-updates/releases/latest/download/paralel-pos.zip",
-  "sha256": "05b518623de011799854c8fd98e4f1729cbda2b4a6a70027737d083b131b5530",
-  "notes": "Calibración de tickets por impresora: ancho útil, posición, márgenes y prueba de impresión. Corrige recortes de textos, logos y totales con conexión y sin conexión.",
-  "signature": "BTA8m+tcYEhe646AUF23tID3ZKPwpn1y4KJNDGAxMvWh+oGWyXmNIKm/hYi7+oz7plNRH0wq8jv8TkLqjeL+CA=="
+  "sha256": "b4e46059f51ef627d81366ff0852d89683ba73827e3c4af5eb6269d9dd981491",
+  "notes": "Nueva vista táctil con productos y clientes accesibles, preferencias para conservar la vista y el último producto vendido, redondeo configurable de báscula en kg y mejoras de acceso, cobro e inventario.",
+  "signature": "1kBMhF3WP1DOCW1eyq3FW+yzjkYYS+jcZ5uPXGmQE4lZLSdiRVVlXT27cU71zRCa7wbJ5NRQF85/g7+7IOwQDQ=="
 }
