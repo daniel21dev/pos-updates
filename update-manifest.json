@@ -1,9 +1,9 @@
 {
-  "version": "0.2.21",
+  "version": "0.2.22",
   "platform": "win32",
   "arch": "x64",
   "downloadUrl": "https://github.com/daniel21dev/pos-updates/releases/latest/download/paralel-pos.zip",
-  "sha256": "cf07cfc7a05c5166ce440ea04d6b176ec97f083857d1823d22cecf446d422f3c",
-  "notes": "Progreso medido durante la instalación y verificación de archivos más ágil, conservando los respaldos y la compatibilidad con versiones anteriores.",
-  "signature": "kIu9LZjE69bbrzv7CtSbiTdBXPRhNd27XDTjJgt6S60h452gDmDjeTdN5vtUIC9hVobljqDQQZiKLlEuYljzBg=="
+  "sha256": "a75299e5e029b9a29c5e41435e73df763200082fca4664b3b1935e2a416aea07",
+  "notes": "Corrige lectores que muestran símbolos al escanear y permite cerrar la aplicación con confirmación de cambios pendientes, conservando los datos y servicios al cancelar.",
+  "signature": "U2PzaswoyTy8ZEHxoz4ZDynmO/2J6vBdiX+3PVcfJP4TEQr+lB3vXmALknQ+v3rjh/5Q/lW+cHEuKLvahfedCQ=="
 }
