@@ -1,9 +1,9 @@
 {
-  "version": "0.2.20",
+  "version": "0.2.21",
   "platform": "win32",
   "arch": "x64",
   "downloadUrl": "https://github.com/daniel21dev/pos-updates/releases/latest/download/paralel-pos.zip",
-  "sha256": "2d10fd1f7926df2cec3c8a2f92b92af7aea47da644f53f8b6f4493afb4f081e5",
-  "notes": "Consulta de productos desde el historial, redondeo configurable de importes por peso, búsqueda por código exacto y tickets sin leyenda de sincronización.",
-  "signature": "PWPy+dMeV/hKtf2y9U+LuqoReOKwpNd1HbgMxi/FCADAbmw0nxZ7y3LFcLkA1GBMY5RwSzntgGcGDFKVMs+aBg=="
+  "sha256": "cf07cfc7a05c5166ce440ea04d6b176ec97f083857d1823d22cecf446d422f3c",
+  "notes": "Progreso medido durante la instalación y verificación de archivos más ágil, conservando los respaldos y la compatibilidad con versiones anteriores.",
+  "signature": "kIu9LZjE69bbrzv7CtSbiTdBXPRhNd27XDTjJgt6S60h452gDmDjeTdN5vtUIC9hVobljqDQQZiKLlEuYljzBg=="
 }
