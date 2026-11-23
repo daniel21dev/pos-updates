@@ -1,9 +1,9 @@
 {
-  "version": "0.2.22",
+  "version": "0.2.23",
   "platform": "win32",
   "arch": "x64",
   "downloadUrl": "https://github.com/daniel21dev/pos-updates/releases/latest/download/paralel-pos.zip",
-  "sha256": "a75299e5e029b9a29c5e41435e73df763200082fca4664b3b1935e2a416aea07",
-  "notes": "Corrige lectores que muestran símbolos al escanear y permite cerrar la aplicación con confirmación de cambios pendientes, conservando los datos y servicios al cancelar.",
-  "signature": "U2PzaswoyTy8ZEHxoz4ZDynmO/2J6vBdiX+3PVcfJP4TEQr+lB3vXmALknQ+v3rjh/5Q/lW+cHEuKLvahfedCQ=="
+  "sha256": "2c7a76de34231868b74aded7930d583199edd559962214938bac6b571737a324",
+  "notes": "Nueva vista Mostrador con lista compacta para tickets largos y cobro siempre visible. Permite ocultar y recuperar el menú lateral para aprovechar la pantalla. Simplifica los controles de báscula en Nueva venta y utiliza el puerto COM guardado en Configuración.",
+  "signature": "VNWYbErfwfN4fBRcDQFtu7YSxF4C53bv9FDEP1TMYbwvoyJX47V9waEtuagy9GW59d5oYHhLtoULi+gWSOYjAw=="
 }
