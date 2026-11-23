@@ -1,9 +1,9 @@
 {
-  "version": "0.2.24",
+  "version": "0.2.25",
   "platform": "win32",
   "arch": "x64",
   "downloadUrl": "https://github.com/daniel21dev/pos-updates/releases/latest/download/paralel-pos.zip",
-  "sha256": "ab1e75e262d421f7a37d0c2661314bd8d9d165bac0174a0f4c565d8503e1d824",
-  "notes": "Corrige bloqueos al registrar y editar productos, evita duplicados al reintentar guardados y envíos involuntarios del lector. Mejora la validación de costo y mayoreo y distingue correctamente códigos con letras acentuadas en ventas, cotizaciones e importación.",
-  "signature": "bAyV1KP0RS4rPOH5oGEGOfbGif7y0QjhIp6runlvldVEjPtVsGSbRoIsrQ39uB5vK5/qJ1meBDDhREvXdPkQDw=="
+  "sha256": "12a5f5d9a8d68f260f13e4a92864f9668b19af9d42dcda11dec9235d6535351e",
+  "notes": "Permite vender medias unidades configurando el incremento del producto en 0.5. Calcula el precio proporcional y descuenta la existencia correcta en venta normal y Mostrador. Conserva productos enteros por defecto y protege el historial y las devoluciones.",
+  "signature": "DN3hT7ImCdolFXDRg8ouACZ68IOmxJVc6ipbhvSB5bo4XAFuxpth5GSMbtUu+rjsVy7mQwkliG4BMGA6rXBKDw=="
 }
